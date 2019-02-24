@@ -29,6 +29,7 @@
     "grunt-contrib-jade": "^0.15.0",
     "grunt-contrib-watch": "^0.6.1",
     "grunt-jade-tasks": "0.0.0",
+    "request": ">=2.68.0"
   },
   "dependencies": {
     "acorn": "^4.0.3",
