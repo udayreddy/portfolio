@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "acorn": "^4.0.3",
-    "clean-css": "^3.4.22",
+    "clean-css": "^4.2.3",
     "uglify-js": "^2.7.5",
     "with": "^5.1.1",
     "request": ">=2.68.0"
